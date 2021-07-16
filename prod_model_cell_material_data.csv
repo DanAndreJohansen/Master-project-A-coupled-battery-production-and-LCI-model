@@ -1,0 +1,591 @@
+battery,material type,material,mass in 1 cell,unit
+LMO-G,cell,anode active material,0.09002279999999999,kg
+LMO-G,cell,anode carbon,0.0,kg
+LMO-G,cell,anode binder,0.0018372,kg
+LMO-G,cell,anode current collector,0.04107501794935047,kg
+LMO-G,cell,cathode active material,0.25967999999999997,kg
+LMO-G,cell,cathode carbon,0.005409999999999998,kg
+LMO-G,cell,cathode binder,0.005409999999999998,kg
+LMO-G,cell,cathode current collector,0.0186361857996997,kg
+LMO-G,cell,separator,0.003103731905945546,kg
+LMO-G,cell,electrolyte,0.05532145990588746,kg
+LMO-G,cell,negative terminal,0.020099780423235875,kg
+LMO-G,cell,positive terminal,0.0060796604392234785,kg
+LMO-G,cell,container,0.010659281293146316,kg
+LMO-G,base,Cathode active material,0.25967999999999997,kg
+LMO-G,base,Graphite,0.09002279999999999,kg
+LMO-G,base,Silicon Nano-wire,0.0,kg
+LMO-G,base,Carbon black - Anode,0.0,kg
+LMO-G,base,Carbon black - Cathode,0.005409999999999998,kg
+LMO-G,base,Binder SBR/CMC - Anode,0.0007348799999999999,kg
+LMO-G,base,Binder SBR/CMC - Cathode,0.0021639999999999993,kg
+LMO-G,base,Binder PVDF - Anode,0.00110232,kg
+LMO-G,base,Binder PVDF - Cathode,0.0032459999999999985,kg
+LMO-G,base,Copper - Foil,0.04107501794935047,kg
+LMO-G,base,Copper - Tab,0.020099780423235875,kg
+LMO-G,base,Aluminum - Foil,0.0186361857996997,kg
+LMO-G,base,Aluminum - Tab,0.0060796604392234785,kg
+LMO-G,base,Aluminum - Container,0.00870863281650054,kg
+LMO-G,base,Electrolyte LiPF6,0.008298218985883118,kg
+LMO-G,base,Electrolyte EC,0.023511620460002172,kg
+LMO-G,base,Electrolyte DMC or EMC,0.023511620460002172,kg
+LMO-G,base,Plastic PE - Separator,0.003103731905945546,kg
+LMO-G,base,Plastic PP - Container,0.0005969197524161937,kg
+LMO-G,base,Plastic PET - Container,0.0013537287242295821,kg
+LMO-G,base,NMP - Anode,0.0,kg
+LMO-G,base,NMP - Cathode,0.12983999999999998,kg
+LMO-G,base,Water,0.044092799999999994,kg
+LMO-G,base-scrap,Cathode active material,0.0030476406313233503,kg
+LMO-G,base-scrap,Graphite,0.0010565201133144473,kg
+LMO-G,base-scrap,Silicon Nano-wire,0.0,kg
+LMO-G,base-scrap,Carbon black - Anode,0.0,kg
+LMO-G,base-scrap,Carbon black - Cathode,6.349251315256979e-05,kg
+LMO-G,base-scrap,Binder SBR/CMC - Anode,8.62465398624039e-06,kg
+LMO-G,base-scrap,Binder SBR/CMC - Cathode,2.5397005261027915e-05,kg
+LMO-G,base-scrap,Binder PVDF - Anode,1.2936980979360582e-05,kg
+LMO-G,base-scrap,Binder PVDF - Cathode,3.809550789154187e-05,kg
+LMO-G,base-scrap,Copper - Foil,0.0,kg
+LMO-G,base-scrap,Copper - Tab,0.0,kg
+LMO-G,base-scrap,Aluminum - Foil,0.0,kg
+LMO-G,base-scrap,Aluminum - Tab,0.0,kg
+LMO-G,base-scrap,Aluminum - Container,0.0,kg
+LMO-G,base-scrap,Electrolyte LiPF6,0.0,kg
+LMO-G,base-scrap,Electrolyte EC,0.0,kg
+LMO-G,base-scrap,Electrolyte DMC or EMC,0.0,kg
+LMO-G,base-scrap,Plastic PE - Separator,0.0,kg
+LMO-G,base-scrap,Plastic PP - Container,0.0,kg
+LMO-G,base-scrap,Plastic PET - Container,0.0,kg
+LMO-G,base-scrap,NMP - Anode,0.0,kg
+LMO-G,base-scrap,NMP - Cathode,0.0015238203156616751,kg
+LMO-G,base-scrap,Water,0.0005174792391744233,kg
+NMC811 G,cell,anode active material,0.10272359999999998,kg
+NMC811 G,cell,anode carbon,0.0,kg
+NMC811 G,cell,anode binder,0.0020964,kg
+NMC811 G,cell,anode current collector,0.06726369185546527,kg
+NMC811 G,cell,cathode active material,0.13922099999999996,kg
+NMC811 G,cell,cathode carbon,0.007734499999999998,kg
+NMC811 G,cell,cathode binder,0.007734499999999998,kg
+NMC811 G,cell,cathode current collector,0.030518274162118067,kg
+NMC811 G,cell,separator,0.006212083933813818,kg
+NMC811 G,cell,electrolyte,0.0478812635627963,kg
+NMC811 G,cell,negative terminal,0.01875979506168682,kg
+NMC811 G,cell,positive terminal,0.005674349743275247,kg
+NMC811 G,cell,container,0.009795978511014098,kg
+NMC811 G,base,Cathode active material,0.13922099999999996,kg
+NMC811 G,base,Graphite,0.10272359999999998,kg
+NMC811 G,base,Silicon Nano-wire,0.0,kg
+NMC811 G,base,Carbon black - Anode,0.0,kg
+NMC811 G,base,Carbon black - Cathode,0.007734499999999998,kg
+NMC811 G,base,Binder SBR/CMC - Anode,0.0008385599999999999,kg
+NMC811 G,base,Binder SBR/CMC - Cathode,0.0030937999999999994,kg
+NMC811 G,base,Binder PVDF - Anode,0.0012578399999999999,kg
+NMC811 G,base,Binder PVDF - Cathode,0.0046406999999999985,kg
+NMC811 G,base,Copper - Foil,0.06726369185546527,kg
+NMC811 G,base,Copper - Tab,0.01875979506168682,kg
+NMC811 G,base,Aluminum - Foil,0.030518274162118067,kg
+NMC811 G,base,Aluminum - Tab,0.005674349743275247,kg
+NMC811 G,base,Aluminum - Container,0.008003314443498517,kg
+NMC811 G,base,Electrolyte LiPF6,0.007182189534419446,kg
+NMC811 G,base,Electrolyte EC,0.02034953701418843,kg
+NMC811 G,base,Electrolyte DMC or EMC,0.02034953701418843,kg
+NMC811 G,base,Plastic PE - Separator,0.006212083933813818,kg
+NMC811 G,base,Plastic PP - Container,0.0005485747966167895,kg
+NMC811 G,base,Plastic PET - Container,0.0012440892708987905,kg
+NMC811 G,base,NMP - Anode,0.0,kg
+NMC811 G,base,NMP - Cathode,0.185628,kg
+NMC811 G,base,Water,0.0503136,kg
+NMC811 G,base-scrap,Cathode active material,0.001633917037636584,kg
+NMC811 G,base-scrap,Graphite,0.0012055784702549573,kg
+NMC811 G,base-scrap,Silicon Nano-wire,0.0,kg
+NMC811 G,base-scrap,Carbon black - Anode,0.0,kg
+NMC811 G,base-scrap,Carbon black - Cathode,9.0773168757588e-05,kg
+NMC811 G,base-scrap,Binder SBR/CMC - Anode,9.841456900040467e-06,kg
+NMC811 G,base-scrap,Binder SBR/CMC - Cathode,3.63092675030352e-05,kg
+NMC811 G,base-scrap,Binder PVDF - Anode,1.4762185350060702e-05,kg
+NMC811 G,base-scrap,Binder PVDF - Cathode,5.446390125455281e-05,kg
+NMC811 G,base-scrap,Copper - Foil,0.0,kg
+NMC811 G,base-scrap,Copper - Tab,0.0,kg
+NMC811 G,base-scrap,Aluminum - Foil,0.0,kg
+NMC811 G,base-scrap,Aluminum - Tab,0.0,kg
+NMC811 G,base-scrap,Aluminum - Container,0.0,kg
+NMC811 G,base-scrap,Electrolyte LiPF6,0.0,kg
+NMC811 G,base-scrap,Electrolyte EC,0.0,kg
+NMC811 G,base-scrap,Electrolyte DMC or EMC,0.0,kg
+NMC811 G,base-scrap,Plastic PE - Separator,0.0,kg
+NMC811 G,base-scrap,Plastic PP - Container,0.0,kg
+NMC811 G,base-scrap,Plastic PET - Container,0.0,kg
+NMC811 G,base-scrap,NMP - Anode,0.0,kg
+NMC811 G,base-scrap,NMP - Cathode,0.0021785560501821123,kg
+NMC811 G,base-scrap,Water,0.0005904874140024282,kg
+LFP G,cell,anode active material,0.11796259999999997,kg
+LFP G,cell,anode carbon,0.0,kg
+LFP G,cell,anode binder,0.002407399999999999,kg
+LFP G,cell,anode current collector,0.07552130697983263,kg
+LFP G,cell,cathode active material,0.22595519999999994,kg
+LFP G,cell,cathode carbon,0.004707399999999999,kg
+LFP G,cell,cathode binder,0.004707399999999999,kg
+LFP G,cell,cathode current collector,0.03426484464225474,kg
+LFP G,cell,separator,0.005706580343824809,kg
+LFP G,cell,electrolyte,0.08148215027353056,kg
+LFP G,cell,negative terminal,0.02367307472070003,kg
+LFP G,cell,positive terminal,0.007160488961752097,kg
+LFP G,cell,container,0.013074285023896935,kg
+LFP G,base,Cathode active material,0.22595519999999994,kg
+LFP G,base,Graphite,0.11796259999999997,kg
+LFP G,base,Silicon Nano-wire,0.0,kg
+LFP G,base,Carbon black - Anode,0.0,kg
+LFP G,base,Carbon black - Cathode,0.004707399999999999,kg
+LFP G,base,Binder SBR/CMC - Anode,0.0009629599999999998,kg
+LFP G,base,Binder SBR/CMC - Cathode,0.0018829599999999995,kg
+LFP G,base,Binder PVDF - Anode,0.0014444399999999995,kg
+LFP G,base,Binder PVDF - Cathode,0.0028244399999999992,kg
+LFP G,base,Copper - Foil,0.07552130697983263,kg
+LFP G,base,Copper - Tab,0.02367307472070003,kg
+LFP G,base,Aluminum - Foil,0.03426484464225474,kg
+LFP G,base,Aluminum - Tab,0.007160488961752097,kg
+LFP G,base,Aluminum - Container,0.010681690864523795,kg
+LFP G,base,Electrolyte LiPF6,0.012222322541029585,kg
+LFP G,base,Electrolyte EC,0.034629913866250486,kg
+LFP G,base,Electrolyte DMC or EMC,0.034629913866250486,kg
+LFP G,base,Plastic PE - Separator,0.005706580343824809,kg
+LFP G,base,Plastic PP - Container,0.0007321599613382283,kg
+LFP G,base,Plastic PET - Container,0.0016604341980349106,kg
+LFP G,base,NMP - Anode,0.0,kg
+LFP G,base,NMP - Cathode,0.11297759999999997,kg
+LFP G,base,Water,0.057777599999999985,kg
+LFP G,base-scrap,Cathode active material,0.0026518416835289355,kg
+LFP G,base-scrap,Graphite,0.001384425495750708,kg
+LFP G,base-scrap,Silicon Nano-wire,0.0,kg
+LFP G,base-scrap,Carbon black - Anode,0.0,kg
+LFP G,base-scrap,Carbon black - Cathode,5.5246701740186135e-05,kg
+LFP G,base-scrap,Binder SBR/CMC - Anode,1.1301432618373126e-05,kg
+LFP G,base-scrap,Binder SBR/CMC - Cathode,2.209868069607446e-05,kg
+LFP G,base-scrap,Binder PVDF - Anode,1.6952148927559686e-05,kg
+LFP G,base-scrap,Binder PVDF - Cathode,3.314802104411168e-05,kg
+LFP G,base-scrap,Copper - Foil,0.0,kg
+LFP G,base-scrap,Copper - Tab,0.0,kg
+LFP G,base-scrap,Aluminum - Foil,0.0,kg
+LFP G,base-scrap,Aluminum - Tab,0.0,kg
+LFP G,base-scrap,Aluminum - Container,0.0,kg
+LFP G,base-scrap,Electrolyte LiPF6,0.0,kg
+LFP G,base-scrap,Electrolyte EC,0.0,kg
+LFP G,base-scrap,Electrolyte DMC or EMC,0.0,kg
+LFP G,base-scrap,Plastic PE - Separator,0.0,kg
+LFP G,base-scrap,Plastic PP - Container,0.0,kg
+LFP G,base-scrap,Plastic PET - Container,0.0,kg
+LFP G,base-scrap,NMP - Anode,0.0,kg
+LFP G,base-scrap,NMP - Cathode,0.0013259208417644678,kg
+LFP G,base-scrap,Water,0.0006780859571023876,kg
+NCA G,cell,anode active material,0.10137119999999998,kg
+NCA G,cell,anode carbon,0.0,kg
+NCA G,cell,anode binder,0.0020688000000000004,kg
+NCA G,cell,anode current collector,0.06893152696880668,kg
+NCA G,cell,cathode active material,0.15047039999999998,kg
+NCA G,cell,cathode carbon,0.0031347999999999997,kg
+NCA G,cell,cathode binder,0.0031347999999999997,kg
+NCA G,cell,cathode current collector,0.03127498923145342,kg
+NCA G,cell,separator,0.005208639953424886,kg
+NCA G,cell,electrolyte,0.04896129206421278,kg
+NCA G,cell,negative terminal,0.0183131332745038,kg
+NCA G,cell,positive terminal,0.005539246177959171,kg
+NCA G,cell,container,0.00951613112598041,kg
+NCA G,base,Cathode active material,0.15047039999999998,kg
+NCA G,base,Graphite,0.10137119999999998,kg
+NCA G,base,Silicon Nano-wire,0.0,kg
+NCA G,base,Carbon black - Anode,0.0,kg
+NCA G,base,Carbon black - Cathode,0.0031347999999999997,kg
+NCA G,base,Binder SBR/CMC - Anode,0.0008275200000000001,kg
+NCA G,base,Binder SBR/CMC - Cathode,0.00125392,kg
+NCA G,base,Binder PVDF - Anode,0.0012412800000000002,kg
+NCA G,base,Binder PVDF - Cathode,0.0018808799999999997,kg
+NCA G,base,Copper - Foil,0.06893152696880668,kg
+NCA G,base,Copper - Tab,0.0183131332745038,kg
+NCA G,base,Aluminum - Foil,0.03127498923145342,kg
+NCA G,base,Aluminum - Tab,0.005539246177959171,kg
+NCA G,base,Aluminum - Container,0.007774679129925994,kg
+NCA G,base,Electrolyte LiPF6,0.007344193809631916,kg
+NCA G,base,Electrolyte EC,0.02080854912729043,kg
+NCA G,base,Electrolyte DMC or EMC,0.02080854912729043,kg
+NCA G,base,Plastic PE - Separator,0.005208639953424886,kg
+NCA G,base,Plastic PP - Container,0.000532903343054903,kg
+NCA G,base,Plastic PET - Container,0.0012085486529995121,kg
+NCA G,base,NMP - Anode,0.0,kg
+NCA G,base,NMP - Cathode,0.07523519999999999,kg
+NCA G,base,Water,0.0496512,kg
+NCA G,base-scrap,Cathode active material,0.001765941562120599,kg
+NCA G,base-scrap,Graphite,0.0011897065155807365,kg
+NCA G,base-scrap,Silicon Nano-wire,0.0,kg
+NCA G,base-scrap,Carbon black - Anode,0.0,kg
+NCA G,base-scrap,Carbon black - Cathode,3.679044921084581e-05,kg
+NCA G,base-scrap,Binder SBR/CMC - Anode,9.711889923108055e-06,kg
+NCA G,base-scrap,Binder SBR/CMC - Cathode,1.4716179684338324e-05,kg
+NCA G,base-scrap,Binder PVDF - Anode,1.4567834884662082e-05,kg
+NCA G,base-scrap,Binder PVDF - Cathode,2.2074269526507486e-05,kg
+NCA G,base-scrap,Copper - Foil,0.0,kg
+NCA G,base-scrap,Copper - Tab,0.0,kg
+NCA G,base-scrap,Aluminum - Foil,0.0,kg
+NCA G,base-scrap,Aluminum - Tab,0.0,kg
+NCA G,base-scrap,Aluminum - Container,0.0,kg
+NCA G,base-scrap,Electrolyte LiPF6,0.0,kg
+NCA G,base-scrap,Electrolyte EC,0.0,kg
+NCA G,base-scrap,Electrolyte DMC or EMC,0.0,kg
+NCA G,base-scrap,Plastic PE - Separator,0.0,kg
+NCA G,base-scrap,Plastic PP - Container,0.0,kg
+NCA G,base-scrap,Plastic PET - Container,0.0,kg
+NCA G,base-scrap,NMP - Anode,0.0,kg
+NCA G,base-scrap,NMP - Cathode,0.0008829707810602995,kg
+NCA G,base-scrap,Water,0.0005827133953864832,kg
+NMC622 G,cell,anode active material,0.09939160000000001,kg
+NMC622 G,cell,anode carbon,0.0,kg
+NMC622 G,cell,anode binder,0.0020284,kg
+NMC622 G,cell,anode current collector,0.0681044880036586,kg
+NMC622 G,cell,cathode active material,0.1640544,kg
+NMC622 G,cell,cathode carbon,0.0034177999999999995,kg
+NMC622 G,cell,cathode binder,0.0034177999999999995,kg
+NMC622 G,cell,cathode current collector,0.030899752589144548,kg
+NMC622 G,cell,separator,0.005146146804261675,kg
+NMC622 G,cell,electrolyte,0.05016132373245329,kg
+NMC622 G,cell,negative terminal,0.018759795061686825,kg
+NMC622 G,cell,positive terminal,0.005674349743275249,kg
+NMC622 G,cell,container,0.009795978511014098,kg
+NMC622 G,base,Cathode active material,0.1640544,kg
+NMC622 G,base,Graphite,0.09939160000000001,kg
+NMC622 G,base,Silicon Nano-wire,0.0,kg
+NMC622 G,base,Carbon black - Anode,0.0,kg
+NMC622 G,base,Carbon black - Cathode,0.0034177999999999995,kg
+NMC622 G,base,Binder SBR/CMC - Anode,0.0008113600000000001,kg
+NMC622 G,base,Binder SBR/CMC - Cathode,0.0013671199999999999,kg
+NMC622 G,base,Binder PVDF - Anode,0.00121704,kg
+NMC622 G,base,Binder PVDF - Cathode,0.0020506799999999996,kg
+NMC622 G,base,Copper - Foil,0.0681044880036586,kg
+NMC622 G,base,Copper - Tab,0.018759795061686825,kg
+NMC622 G,base,Aluminum - Foil,0.030899752589144548,kg
+NMC622 G,base,Aluminum - Tab,0.005674349743275249,kg
+NMC622 G,base,Aluminum - Container,0.008003314443498518,kg
+NMC622 G,base,Electrolyte LiPF6,0.007524198559867994,kg
+NMC622 G,base,Electrolyte EC,0.02131856258629265,kg
+NMC622 G,base,Electrolyte DMC or EMC,0.02131856258629265,kg
+NMC622 G,base,Plastic PE - Separator,0.005146146804261675,kg
+NMC622 G,base,Plastic PP - Container,0.0005485747966167895,kg
+NMC622 G,base,Plastic PET - Container,0.0012440892708987905,kg
+NMC622 G,base,NMP - Anode,0.0,kg
+NMC622 G,base,NMP - Cathode,0.0820272,kg
+NMC622 G,base,Water,0.048681600000000005,kg
+NMC622 G,base-scrap,Cathode active material,0.0019253652772157018,kg
+NMC622 G,base-scrap,Graphite,0.0011664736543909348,kg
+NMC622 G,base-scrap,Silicon Nano-wire,0.0,kg
+NMC622 G,base-scrap,Carbon black - Anode,0.0,kg
+NMC622 G,base-scrap,Carbon black - Cathode,4.0111776608660446e-05,kg
+NMC622 G,base-scrap,Binder SBR/CMC - Anode,9.522233913395387e-06,kg
+NMC622 G,base-scrap,Binder SBR/CMC - Cathode,1.604471064346418e-05,kg
+NMC622 G,base-scrap,Binder PVDF - Anode,1.4283350870093078e-05,kg
+NMC622 G,base-scrap,Binder PVDF - Cathode,2.4067065965196266e-05,kg
+NMC622 G,base-scrap,Copper - Foil,0.0,kg
+NMC622 G,base-scrap,Copper - Tab,0.0,kg
+NMC622 G,base-scrap,Aluminum - Foil,0.0,kg
+NMC622 G,base-scrap,Aluminum - Tab,0.0,kg
+NMC622 G,base-scrap,Aluminum - Container,0.0,kg
+NMC622 G,base-scrap,Electrolyte LiPF6,0.0,kg
+NMC622 G,base-scrap,Electrolyte EC,0.0,kg
+NMC622 G,base-scrap,Electrolyte DMC or EMC,0.0,kg
+NMC622 G,base-scrap,Plastic PE - Separator,0.0,kg
+NMC622 G,base-scrap,Plastic PP - Container,0.0,kg
+NMC622 G,base-scrap,Plastic PET - Container,0.0,kg
+NMC622 G,base-scrap,NMP - Anode,0.0,kg
+NMC622 G,base-scrap,NMP - Cathode,0.0009626826386078509,kg
+NMC622 G,base-scrap,Water,0.0005713340348037232,kg
+NMC111 G,cell,anode active material,0.101289,kg
+NMC111 G,cell,anode carbon,0.0,kg
+NMC111 G,cell,anode binder,0.005331000000000001,kg
+NMC111 G,cell,anode current collector,0.06927724319208634,kg
+NMC111 G,cell,cathode active material,0.19464,kg
+NMC111 G,cell,cathode carbon,0.004055,kg
+NMC111 G,cell,cathode binder,0.004055,kg
+NMC111 G,cell,cathode current collector,0.031431844470785404,kg
+NMC111 G,cell,separator,0.005234763142802898,kg
+NMC111 G,cell,electrolyte,0.05520145673906343,kg
+NMC111 G,cell,negative terminal,0.020099780423235885,kg
+NMC111 G,cell,positive terminal,0.006079660439223481,kg
+NMC111 G,cell,container,0.010547078332165834,kg
+NMC111 G,base,Cathode active material,0.19464,kg
+NMC111 G,base,Graphite,0.101289,kg
+NMC111 G,base,Silicon Nano-wire,0.0,kg
+NMC111 G,base,Carbon black - Anode,0.0,kg
+NMC111 G,base,Carbon black - Cathode,0.004055,kg
+NMC111 G,base,Binder SBR/CMC - Anode,0.002132400000000001,kg
+NMC111 G,base,Binder SBR/CMC - Cathode,0.001622,kg
+NMC111 G,base,Binder PVDF - Anode,0.0031986000000000002,kg
+NMC111 G,base,Binder PVDF - Cathode,0.0024329999999999994,kg
+NMC111 G,base,Copper - Foil,0.06927724319208634,kg
+NMC111 G,base,Copper - Tab,0.020099780423235885,kg
+NMC111 G,base,Aluminum - Foil,0.031431844470785404,kg
+NMC111 G,base,Aluminum - Tab,0.006079660439223481,kg
+NMC111 G,base,Aluminum - Container,0.008616962997379487,kg
+NMC111 G,base,Electrolyte LiPF6,0.008280218510859515,kg
+NMC111 G,base,Electrolyte EC,0.023460619114101956,kg
+NMC111 G,base,Electrolyte DMC or EMC,0.023460619114101956,kg
+NMC111 G,base,Plastic PE - Separator,0.005234763142802898,kg
+NMC111 G,base,Plastic PP - Container,0.0005906363866012868,kg
+NMC111 G,base,Plastic PET - Container,0.001339478948185061,kg
+NMC111 G,base,NMP - Anode,0.0,kg
+NMC111 G,base,NMP - Cathode,0.09732,kg
+NMC111 G,base,Water,0.12794400000000006,kg
+NMC111 G,base-scrap,Cathode active material,0.002284322136786726,kg
+NMC111 G,base-scrap,Graphite,0.0011887418049372725,kg
+NMC111 G,base-scrap,Silicon Nano-wire,0.0,kg
+NMC111 G,base-scrap,Carbon black - Anode,0.0,kg
+NMC111 G,base-scrap,Carbon black - Cathode,4.759004451639012e-05,kg
+NMC111 G,base-scrap,Binder SBR/CMC - Anode,2.502614326183732e-05,kg
+NMC111 G,base-scrap,Binder SBR/CMC - Cathode,1.903601780655605e-05,kg
+NMC111 G,base-scrap,Binder PVDF - Anode,3.7539214892755975e-05,kg
+NMC111 G,base-scrap,Binder PVDF - Cathode,2.855402670983407e-05,kg
+NMC111 G,base-scrap,Copper - Foil,0.0,kg
+NMC111 G,base-scrap,Copper - Tab,0.0,kg
+NMC111 G,base-scrap,Aluminum - Foil,0.0,kg
+NMC111 G,base-scrap,Aluminum - Tab,0.0,kg
+NMC111 G,base-scrap,Aluminum - Container,0.0,kg
+NMC111 G,base-scrap,Electrolyte LiPF6,0.0,kg
+NMC111 G,base-scrap,Electrolyte EC,0.0,kg
+NMC111 G,base-scrap,Electrolyte DMC or EMC,0.0,kg
+NMC111 G,base-scrap,Plastic PE - Separator,0.0,kg
+NMC111 G,base-scrap,Plastic PP - Container,0.0,kg
+NMC111 G,base-scrap,Plastic PET - Container,0.0,kg
+NMC111 G,base-scrap,NMP - Anode,0.0,kg
+NMC111 G,base-scrap,NMP - Cathode,0.001142161068393363,kg
+NMC111 G,base-scrap,Water,0.0015015685957102396,kg
+NMC532LMO G,cell,anode active material,0.09777399999999997,kg
+NMC532LMO G,cell,anode carbon,0.0,kg
+NMC532LMO G,cell,anode binder,0.005146,kg
+NMC532LMO G,cell,anode current collector,0.04961429799671544,kg
+NMC532LMO G,cell,cathode active material,0.2164512,kg
+NMC532LMO G,cell,cathode carbon,0.0045094,kg
+NMC532LMO G,cell,cathode binder,0.0045094,kg
+NMC532LMO G,cell,cathode current collector,0.022510550742268855,kg
+NMC532LMO G,cell,separator,0.003748981433760542,kg
+NMC532LMO G,cell,electrolyte,0.053401409236702654,kg
+NMC532LMO G,cell,negative terminal,0.01965311863605286,kg
+NMC532LMO G,cell,positive terminal,0.005944556873907402,kg
+NMC532LMO G,cell,container,0.010367553594597052,kg
+NMC532LMO G,base,Cathode active material,0.2164512,kg
+NMC532LMO G,base,Graphite,0.09777399999999997,kg
+NMC532LMO G,base,Silicon Nano-wire,0.0,kg
+NMC532LMO G,base,Carbon black - Anode,0.0,kg
+NMC532LMO G,base,Carbon black - Cathode,0.0045094,kg
+NMC532LMO G,base,Binder SBR/CMC - Anode,0.0020584,kg
+NMC532LMO G,base,Binder SBR/CMC - Cathode,0.0018037600000000002,kg
+NMC532LMO G,base,Binder PVDF - Anode,0.0030876000000000002,kg
+NMC532LMO G,base,Binder PVDF - Cathode,0.00270564,kg
+NMC532LMO G,base,Copper - Foil,0.04961429799671544,kg
+NMC532LMO G,base,Copper - Tab,0.01965311863605286,kg
+NMC532LMO G,base,Aluminum - Foil,0.022510550742268855,kg
+NMC532LMO G,base,Aluminum - Tab,0.005944556873907402,kg
+NMC532LMO G,base,Aluminum - Container,0.008470291286785791,kg
+NMC532LMO G,base,Electrolyte LiPF6,0.008010211385505396,kg
+NMC532LMO G,base,Electrolyte EC,0.022695598925598626,kg
+NMC532LMO G,base,Electrolyte DMC or EMC,0.022695598925598626,kg
+NMC532LMO G,base,Plastic PE - Separator,0.003748981433760542,kg
+NMC532LMO G,base,Plastic PP - Container,0.000580583001297435,kg
+NMC532LMO G,base,Plastic PET - Container,0.0013166793065138257,kg
+NMC532LMO G,base,NMP - Anode,0.0,kg
+NMC532LMO G,base,NMP - Cathode,0.1082256,kg
+NMC532LMO G,base,Water,0.123504,kg
+NMC532LMO G,base-scrap,Cathode active material,0.002540301416430595,kg
+NMC532LMO G,base-scrap,Graphite,0.001147489275596924,kg
+NMC532LMO G,base-scrap,Silicon Nano-wire,0.0,kg
+NMC532LMO G,base-scrap,Carbon black - Anode,0.0,kg
+NMC532LMO G,base-scrap,Carbon black - Cathode,5.29229461756374e-05,kg
+NMC532LMO G,base-scrap,Binder SBR/CMC - Anode,2.4157668959935253e-05,kg
+NMC532LMO G,base-scrap,Binder SBR/CMC - Cathode,2.1169178470254963e-05,kg
+NMC532LMO G,base-scrap,Binder PVDF - Anode,3.623650343990287e-05,kg
+NMC532LMO G,base-scrap,Binder PVDF - Cathode,3.175376770538244e-05,kg
+NMC532LMO G,base-scrap,Copper - Foil,0.0,kg
+NMC532LMO G,base-scrap,Copper - Tab,0.0,kg
+NMC532LMO G,base-scrap,Aluminum - Foil,0.0,kg
+NMC532LMO G,base-scrap,Aluminum - Tab,0.0,kg
+NMC532LMO G,base-scrap,Aluminum - Container,0.0,kg
+NMC532LMO G,base-scrap,Electrolyte LiPF6,0.0,kg
+NMC532LMO G,base-scrap,Electrolyte EC,0.0,kg
+NMC532LMO G,base-scrap,Electrolyte DMC or EMC,0.0,kg
+NMC532LMO G,base-scrap,Plastic PE - Separator,0.0,kg
+NMC532LMO G,base-scrap,Plastic PP - Container,0.0,kg
+NMC532LMO G,base-scrap,Plastic PET - Container,0.0,kg
+NMC532LMO G,base-scrap,NMP - Anode,0.0,kg
+NMC532LMO G,base-scrap,NMP - Cathode,0.0012701507082152974,kg
+NMC532LMO G,base-scrap,Water,0.001449460137596115,kg
+NMC532 G,cell,anode active material,0.09873500000000003,kg
+NMC532 G,cell,anode carbon,0.0,kg
+NMC532 G,cell,anode binder,0.0020150000000000007,kg
+NMC532 G,cell,anode current collector,0.06882236282801917,kg
+NMC532 G,cell,cathode active material,0.18789120000000004,kg
+NMC532 G,cell,cathode carbon,0.003914400000000001,kg
+NMC532 G,cell,cathode binder,0.003914400000000001,kg
+NMC532 G,cell,cathode current collector,0.031225460264408565,kg
+NMC532 G,cell,separator,0.006471597982260842,kg
+NMC532 G,cell,electrolyte,0.049441304731509005,kg
+NMC532 G,cell,negative terminal,0.019206456848869846,kg
+NMC532 G,cell,positive terminal,0.005809453308591328,kg
+NMC532 G,cell,container,0.010079786000552983,kg
+NMC532 G,base,Cathode active material,0.18789120000000004,kg
+NMC532 G,base,Graphite,0.09873500000000003,kg
+NMC532 G,base,Silicon Nano-wire,0.0,kg
+NMC532 G,base,Carbon black - Anode,0.0,kg
+NMC532 G,base,Carbon black - Cathode,0.003914400000000001,kg
+NMC532 G,base,Binder SBR/CMC - Anode,0.0008060000000000004,kg
+NMC532 G,base,Binder SBR/CMC - Cathode,0.0015657600000000007,kg
+NMC532 G,base,Binder PVDF - Anode,0.0012090000000000004,kg
+NMC532 G,base,Binder PVDF - Cathode,0.0023486400000000004,kg
+NMC532 G,base,Copper - Foil,0.06882236282801917,kg
+NMC532 G,base,Copper - Tab,0.019206456848869846,kg
+NMC532 G,base,Aluminum - Foil,0.031225460264408565,kg
+NMC532 G,base,Aluminum - Tab,0.005809453308591328,kg
+NMC532 G,base,Aluminum - Container,0.008235185162451787,kg
+NMC532 G,base,Electrolyte LiPF6,0.00741619570972635,kg
+NMC532 G,base,Electrolyte EC,0.021012554510891325,kg
+NMC532 G,base,Electrolyte DMC or EMC,0.021012554510891325,kg
+NMC532 G,base,Plastic PE - Separator,0.006471597982260842,kg
+NMC532 G,base,Plastic PP - Container,0.000564468016030967,kg
+NMC532 G,base,Plastic PET - Container,0.0012801328220702287,kg
+NMC532 G,base,NMP - Anode,0.0,kg
+NMC532 G,base,NMP - Cathode,0.09394560000000002,kg
+NMC532 G,base,Water,0.048360000000000014,kg
+NMC532 G,base-scrap,Cathode active material,0.0022051172804532578,kg
+NMC532 G,base-scrap,Graphite,0.0011587677053824367,kg
+NMC532 G,base-scrap,Silicon Nano-wire,0.0,kg
+NMC532 G,base-scrap,Carbon black - Anode,0.0,kg
+NMC532 G,base-scrap,Carbon black - Cathode,4.593994334277621e-05,kg
+NMC532 G,base-scrap,Binder SBR/CMC - Anode,9.459328207203565e-06,kg
+NMC532 G,base-scrap,Binder SBR/CMC - Cathode,1.8375977337110485e-05,kg
+NMC532 G,base-scrap,Binder PVDF - Anode,1.4188992310805346e-05,kg
+NMC532 G,base-scrap,Binder PVDF - Cathode,2.7563966005665725e-05,kg
+NMC532 G,base-scrap,Copper - Foil,0.0,kg
+NMC532 G,base-scrap,Copper - Tab,0.0,kg
+NMC532 G,base-scrap,Aluminum - Foil,0.0,kg
+NMC532 G,base-scrap,Aluminum - Tab,0.0,kg
+NMC532 G,base-scrap,Aluminum - Container,0.0,kg
+NMC532 G,base-scrap,Electrolyte LiPF6,0.0,kg
+NMC532 G,base-scrap,Electrolyte EC,0.0,kg
+NMC532 G,base-scrap,Electrolyte DMC or EMC,0.0,kg
+NMC532 G,base-scrap,Plastic PE - Separator,0.0,kg
+NMC532 G,base-scrap,Plastic PP - Container,0.0,kg
+NMC532 G,base-scrap,Plastic PET - Container,0.0,kg
+NMC532 G,base-scrap,NMP - Anode,0.0,kg
+NMC532 G,base-scrap,NMP - Cathode,0.0011025586402266289,kg
+NMC532 G,base-scrap,Water,0.0005675596924322139,kg
+LMO LTO,cell,anode active material,0.2953287,kg
+LMO LTO,cell,anode carbon,0.019909800000000002,kg
+LMO LTO,cell,anode binder,0.016591500000000006,kg
+LMO LTO,cell,anode current collector,0.02771506432680092,kg
+LMO LTO,cell,cathode active material,0.4088351999999999,kg
+LMO LTO,cell,cathode carbon,0.0085174,kg
+LMO LTO,cell,cathode binder,0.0085174,kg
+LMO LTO,cell,cathode current collector,0.02771506432680092,kg
+LMO LTO,cell,separator,0.004615758307572321,kg
+LMO LTO,cell,electrolyte,0.15264402820019277,kg
+LMO LTO,cell,negative terminal,0.009532907568702417,kg
+LMO LTO,cell,positive terminal,0.009532907568702417,kg
+LMO LTO,cell,container,0.01988500475541253,kg
+LMO LTO,base,Cathode active material,0.4088351999999999,kg
+LMO LTO,base,Graphite,0.2953287,kg
+LMO LTO,base,Silicon Nano-wire,0.0,kg
+LMO LTO,base,Carbon black - Anode,0.019909800000000002,kg
+LMO LTO,base,Carbon black - Cathode,0.0085174,kg
+LMO LTO,base,Binder SBR/CMC - Anode,0.006636600000000001,kg
+LMO LTO,base,Binder SBR/CMC - Cathode,0.00340696,kg
+LMO LTO,base,Binder PVDF - Anode,0.009954900000000003,kg
+LMO LTO,base,Binder PVDF - Cathode,0.005110439999999999,kg
+LMO LTO,base,Copper - Foil,0.02771506432680092,kg
+LMO LTO,base,Copper - Tab,0.009532907568702417,kg
+LMO LTO,base,Aluminum - Foil,0.02771506432680092,kg
+LMO LTO,base,Aluminum - Tab,0.009532907568702417,kg
+LMO LTO,base,Aluminum - Container,0.016246048885172035,kg
+LMO LTO,base,Electrolyte LiPF6,0.022896604230028917,kg
+LMO LTO,base,Electrolyte EC,0.06487371198508192,kg
+LMO LTO,base,Electrolyte DMC or EMC,0.06487371198508192,kg
+LMO LTO,base,Plastic PE - Separator,0.004615758307572321,kg
+LMO LTO,base,Plastic PP - Container,0.0011135602663031017,kg
+LMO LTO,base,Plastic PET - Container,0.002525395603937391,kg
+LMO LTO,base,NMP - Anode,0.3981960000000001,kg
+LMO LTO,base,NMP - Cathode,0.20441759999999995,kg
+LMO LTO,base,Water,0.0,kg
+LMO LTO,base-scrap,Cathode active material,0.004798146823148522,kg
+LMO LTO,base-scrap,Graphite,0.003466018737353298,kg
+LMO LTO,base-scrap,Silicon Nano-wire,0.0,kg
+LMO LTO,base-scrap,Carbon black - Anode,0.00023366418454067177,kg
+LMO LTO,base-scrap,Carbon black - Cathode,9.996139214892755e-05,kg
+LMO LTO,base-scrap,Binder SBR/CMC - Anode,7.788806151355728e-05,kg
+LMO LTO,base-scrap,Binder SBR/CMC - Cathode,3.998455685957102e-05,kg
+LMO LTO,base-scrap,Binder PVDF - Anode,0.00011683209227033593,kg
+LMO LTO,base-scrap,Binder PVDF - Cathode,5.997683528935653e-05,kg
+LMO LTO,base-scrap,Copper - Foil,0.0,kg
+LMO LTO,base-scrap,Copper - Tab,0.0,kg
+LMO LTO,base-scrap,Aluminum - Foil,0.0,kg
+LMO LTO,base-scrap,Aluminum - Tab,0.0,kg
+LMO LTO,base-scrap,Aluminum - Container,0.0,kg
+LMO LTO,base-scrap,Electrolyte LiPF6,0.0,kg
+LMO LTO,base-scrap,Electrolyte EC,0.0,kg
+LMO LTO,base-scrap,Electrolyte DMC or EMC,0.0,kg
+LMO LTO,base-scrap,Plastic PE - Separator,0.0,kg
+LMO LTO,base-scrap,Plastic PP - Container,0.0,kg
+LMO LTO,base-scrap,Plastic PET - Container,0.0,kg
+LMO LTO,base-scrap,NMP - Anode,0.004673283690813436,kg
+LMO LTO,base-scrap,NMP - Cathode,0.002399073411574261,kg
+LMO LTO,base-scrap,Water,0.0,kg
+NMC333 Si,cell,anode active material,0.07515200000000001,kg
+NMC333 Si,cell,anode carbon,0.021472,kg
+NMC333 Si,cell,anode binder,0.010736,kg
+NMC333 Si,cell,anode current collector,0.058369762349076995,kg
+NMC333 Si,cell,cathode active material,0.08280000000000001,kg
+NMC333 Si,cell,cathode carbon,0.0036,kg
+NMC333 Si,cell,cathode binder,0.0036,kg
+NMC333 Si,cell,cathode current collector,0.022069167394381244,kg
+NMC333 Si,cell,separator,0.013068344867139146,kg
+NMC333 Si,cell,electrolyte,0.08499824306147527,kg
+NMC333 Si,cell,negative terminal,0.02009978042323588,kg
+NMC333 Si,cell,positive terminal,0.00607966043922348,kg
+NMC333 Si,cell,container,0.0074053954247121825,kg
+NMC333 Si,base,Cathode active material,0.08280000000000001,kg
+NMC333 Si,base,Graphite,0.0,kg
+NMC333 Si,base,Silicon Nano-wire,0.07515200000000001,kg
+NMC333 Si,base,Carbon black - Anode,0.021472,kg
+NMC333 Si,base,Carbon black - Cathode,0.0036,kg
+NMC333 Si,base,Binder SBR/CMC - Anode,0.010736,kg
+NMC333 Si,base,Binder SBR/CMC - Cathode,0.0036,kg
+NMC333 Si,base,Binder PVDF - Anode,0.0,kg
+NMC333 Si,base,Binder PVDF - Cathode,0.0,kg
+NMC333 Si,base,Copper - Foil,0.058369762349076995,kg
+NMC333 Si,base,Copper - Tab,0.02009978042323588,kg
+NMC333 Si,base,Aluminum - Foil,0.022069167394381244,kg
+NMC333 Si,base,Aluminum - Tab,0.00607966043922348,kg
+NMC333 Si,base,Aluminum - Container,0.006050208061989852,kg
+NMC333 Si,base,Electrolyte LiPF6,0.01274973645922129,kg
+NMC333 Si,base,Electrolyte EC,0.036124253301126986,kg
+NMC333 Si,base,Electrolyte DMC or EMC,0.036124253301126986,kg
+NMC333 Si,base,Plastic PE - Separator,0.013068344867139146,kg
+NMC333 Si,base,Plastic PP - Container,0.0004147021437838822,kg
+NMC333 Si,base,Plastic PET - Container,0.0009404852189384471,kg
+NMC333 Si,base,NMP - Anode,0.0,kg
+NMC333 Si,base,NMP - Cathode,0.08639999999999999,kg
+NMC333 Si,base,Water,0.25766400000000006,kg
+NMC333 Si,base-scrap,Cathode active material,0.0009717523269931203,kg
+NMC333 Si,base-scrap,Graphite,0.0,kg
+NMC333 Si,base-scrap,Silicon Nano-wire,0.0008819943342776205,kg
+NMC333 Si,base-scrap,Carbon black - Anode,0.0002519983812221773,kg
+NMC333 Si,base-scrap,Carbon black - Cathode,4.225010117361392e-05,kg
+NMC333 Si,base-scrap,Binder SBR/CMC - Anode,0.00012599919061108864,kg
+NMC333 Si,base-scrap,Binder SBR/CMC - Cathode,4.225010117361392e-05,kg
+NMC333 Si,base-scrap,Binder PVDF - Anode,0.0,kg
+NMC333 Si,base-scrap,Binder PVDF - Cathode,0.0,kg
+NMC333 Si,base-scrap,Copper - Foil,0.0,kg
+NMC333 Si,base-scrap,Copper - Tab,0.0,kg
+NMC333 Si,base-scrap,Aluminum - Foil,0.0,kg
+NMC333 Si,base-scrap,Aluminum - Tab,0.0,kg
+NMC333 Si,base-scrap,Aluminum - Container,0.0,kg
+NMC333 Si,base-scrap,Electrolyte LiPF6,0.0,kg
+NMC333 Si,base-scrap,Electrolyte EC,0.0,kg
+NMC333 Si,base-scrap,Electrolyte DMC or EMC,0.0,kg
+NMC333 Si,base-scrap,Plastic PE - Separator,0.0,kg
+NMC333 Si,base-scrap,Plastic PP - Container,0.0,kg
+NMC333 Si,base-scrap,Plastic PET - Container,0.0,kg
+NMC333 Si,base-scrap,NMP - Anode,0.0,kg
+NMC333 Si,base-scrap,NMP - Cathode,0.001014002428166734,kg
+NMC333 Si,base-scrap,Water,0.003023980574666128,kg
